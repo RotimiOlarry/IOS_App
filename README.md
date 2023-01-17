@@ -8,8 +8,11 @@ This is a prototype V1.0 of a self introductory IOS application for new and tran
 
 [Gfycat](https://gfycat.com/) is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
-<!-- <img src="https://github.com/RotimiOlarry/IOS_App/blob/main/Ios_App.gif" width=200><br> OR <img path="/RotimiOlarry/IOS_App/blob/main/Ios_App.gif" width=200><br> -->
-<img src='https://gfycat.com/maturedismalamazonparrot.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/RotimiOlarry/IOS_App/blob/main/Ios_App.gif" width=200><br> OR <img path="Ios_App.gif" width=200><br> -->
+
+Second
+
+<img src='https://github.com/RotimiOlarry/IOS_App/blob/main/Ios_App.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Gif created by [Gfycat](https://gfycat.com/)
 
